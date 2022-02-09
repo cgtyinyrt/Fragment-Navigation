@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Fragment-Navigation</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="first_fragment">First Fragment</string>
+    <string name="to_second_fragment">To Second Fragment</string>
+    <string name="second_fragment">Second Fragment</string>
+    <string name="to_first_fragment">To First Fragment</string>
 </resources>
